@@ -1,5 +1,1 @@
-
-```
-在舒适区做事, 叫生活;
-在学习区做事, 叫做事.
-```
+![image](https://user-images.githubusercontent.com/2569835/96458005-00352300-1253-11eb-86a0-e33d7694c422.png)
