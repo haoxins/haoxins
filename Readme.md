@@ -1,8 +1,9 @@
 
 ### Coding ~
 
-* I like **Golang**, and I also write Kotlin currently.
-* I've ever written C, C#, JavaScript, Python, TypeScript before.
-* I also tried **Elixir** and Rust **for a short time**.
+* I like **Golang**, **Elixir**
+* I've ever written JavaScript, Golang, Python, TypeScript, Kotlin for years
+* I also tried **Elixir** and Rust **for a short time**
+* I don't want to write ?? again
 
 ### Interests ~
