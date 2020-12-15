@@ -9,10 +9,8 @@
 * I'm interested in **Cryptography**
 * But I'm **not** an expert in this domain that extremely easy to make mistakes
 
-### Previous experiences
+### experiences
 
-```
-JVM Backend and Data
-Golang
-Frontend, Node.js
-```
+* **At present**, JVM Backend and Data
+* **Previous**, Golang Backend
+* **Previous**, Node.js, Frontend
