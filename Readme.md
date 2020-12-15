@@ -8,3 +8,11 @@
 
 * I'm interested in **Cryptography**
 * But I'm **not** an expert in this domain that extremely easy to make mistakes
+
+### Previous experiences
+
+```
+JVM Backend and Data
+Golang
+Frontend, Node.js
+```
