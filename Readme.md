@@ -11,6 +11,6 @@
 
 ### experiences
 
-* **At present**, JVM Backend and Data
-* **Previous**, Golang Backend
-* **Previous**, Node.js, Frontend
+* **At present**, JVM Backend and Data/ML Engineering
+* **Stage 2**, Golang, Python Backend
+* **Stage 1**, Node.js, Frontend
