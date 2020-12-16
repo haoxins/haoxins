@@ -11,6 +11,7 @@
 
 ### experiences
 
-* **At present**, JVM Backend and Data/ML Engineering
+* **At present**, Data/ML Engineering
+* **Stage 3**, JVM (Kotlin, Spring) Backend
 * **Stage 2**, Golang, Python Backend
 * **Stage 1**, Node.js, Frontend
