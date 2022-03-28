@@ -9,3 +9,5 @@
 * I'm using Golang and Python this year.
 
 [![Hao Xin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoxins&layout=compact&theme=merko)](https://github.com/haoxins/haoxins.github.io)
+
+* I'm currently working on the below pinned open source projects.
