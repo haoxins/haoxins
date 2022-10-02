@@ -3,7 +3,7 @@
 
 - __streaming computing__
 
-[![Hao Xin's github stats](https://github-readme-stats.vercel.app/api?username=haoxins&theme=merko)](https://github.com/haoxins/haoxins.github.io)
+[![Hao Xin's github stats](https://github-readme-stats.vercel.app/api?username=haoxins&hide_rank=true&theme=merko)](https://github.com/haoxins/haoxins.github.io)
 
 ### This yeay, I'm using:
 
