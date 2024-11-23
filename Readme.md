@@ -1,7 +1,6 @@
 ```
-Enjoy coding~
+Enjoy coding, enjoy life!
 Reading mathematics, physics, quantum, cryptography, ...
-Enjoy life!
 ```
 
 <p>
