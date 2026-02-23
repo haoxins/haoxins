@@ -1,10 +1,5 @@
-```
-Enjoy coding, enjoy life!
-Reading mathematics, physics, quantum, cryptography, ...
-```
+The Last Generation of Human Coders.
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoxins&langs_count=4&hide=html,css"
-  />
-</p>
+Deeply interessted in exploring the
+following domains through intensive reading:
+Math & Physics, Quantum Computing & Cryptography.
